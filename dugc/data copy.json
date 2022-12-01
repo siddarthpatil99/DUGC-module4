@@ -1,0 +1,94 @@
+{
+    "sem3": [
+        {
+            "code": "GTLA",
+            "name": "22EBS213"
+        },
+        {
+            "code": "DBMS",
+            "name": "22EBS313"
+        },
+        {
+            "code": "DMS",
+            "name": "22RTS213"
+        },
+        {
+            "code": "COA",
+            "name": "22EBJD213"
+        }
+    ],
+    "sem4": [
+        {
+            "code": "OS",
+            "name": "45EBS213"
+        },
+        {
+            "code": "OOPS",
+            "name": "22EGH213"
+        },
+        {
+            "code": "AS",
+            "name": "25EBS213"
+        },
+        {
+            "code": "MCP",
+            "name": "22SDS213"
+        }
+    ],
+    "sem5": [
+        {
+            "code": "ML",
+            "name": "22ESD213"
+        },
+        {
+            "code": "WT",
+            "name": "22EBS343"
+        },
+        {
+            "code": "SS",
+            "name": "22EBS233"
+        }
+    ],
+    "sem6": [
+        {
+            "code": "TY",
+            "name": "22ESD213"
+        },
+        {
+            "code": "TT",
+            "name": "22EBS343"
+        },
+        {
+            "code": "SW",
+            "name": "22EBS233"
+        }
+    ],
+    "sem7": [
+        {
+            "code": "AL",
+            "name": "22ESD213"
+        },
+        {
+            "code": "WE",
+            "name": "22EBS343"
+        },
+        {
+            "code": "ST",
+            "name": "22EBS233"
+        }
+    ],
+    "sem8": [
+        {
+            "code": "DF",
+            "name": "22ESD213"
+        },
+        {
+            "code": "FS",
+            "name": "22EBS343"
+        },
+        {
+            "code": "MG",
+            "name": "22EBS233"
+        }
+    ]
+}
